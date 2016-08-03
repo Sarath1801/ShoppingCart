@@ -1,0 +1,38 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Aug 1, 2016, 11:57:29 AM
+    Author     : kabil
+*/
+body {
+}
+
+.login-background{
+    background-image: url("/images/30498634-Shopping-time-closeup-of-teenage-girl-legs-with-shopping-bags-at-shopping-mall-Stock-Photo.jpg"); 
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+.home-background { 
+    background-image:url("/Images/30498634-Shopping-time-closeup-of-teenage-girl-legs-with-shopping-bags-at-shopping-mall-Stock-Photo.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+.jumbotronbg{
+    background-color:gold;
+}
+
+.errorState{
+    border: 1px solid Red;
+}
+
+.normalState{
+    border:1px solid #ccc;
+}
+
+.errorMsg{
+    color: red;
+    font-weight: bold;
+}
